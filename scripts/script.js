@@ -14,7 +14,7 @@ buttons.forEach(button => {
       display.value = eval(display.value);
     } else {
       // Concatenate the value to the display
-    //   display.value += value;
+      // display.value += value;
     }
   });
 });
