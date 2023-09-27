@@ -1,5 +1,6 @@
 // Get reference to the input field
 const display = document.querySelector("input[name='display']");
+const ceva = 'foarte ceva pe aici';
 
 // Add click event listener to all buttons
 const buttons = document.querySelectorAll("input[type='button']");
