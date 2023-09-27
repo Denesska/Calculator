@@ -1,4 +1,6 @@
 // Get reference to the input field
+const value = 1;
+const altceva = "altceva";
 const display = document.querySelector("input[name='display']");
 const ceva = 'foarte ceva pe aici';
 
