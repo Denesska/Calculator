@@ -3,6 +3,7 @@ const value = 1;
 const altceva = "altceva";
 const display = document.querySelector("input[name='display']");
 const ceva = 'foarte ceva pe aici';
+const incaCeva = 'ultima'
 
 // Add click event listener to all buttons
 const buttons = document.querySelectorAll("input[type='button']");
